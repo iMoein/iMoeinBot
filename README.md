@@ -1,6 +1,6 @@
 Telegram Bot for iMoein.com
 
-# [![telegram api](img/telegram.png)](https://github.com/iMoein/iMoeinBot) Telegram Bot API PHP for iMoeinBot
+# [![telegram api](img/telegram-24px.png)](https://github.com/iMoein/iMoeinBot) Telegram Bot API PHP
 >
 Telegram is a messaging app with a focus on speed and security, it’s super fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any of your phones, tablets or computers.
 
