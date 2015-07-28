@@ -25,3 +25,12 @@ May. 2015: 2 billion messages daily, ~62 million Monthly Active Users.
 
 ### What is Telegram?
 According to [Telegram](https://www.telegram.org/):
+
+### To do
+
+- [ ] Subscribe Command
+- [ ] Help Command
+- [ ] Feed Url Command
+- [ ] Documentation
+- [ ] Unsubscribe Command
+
